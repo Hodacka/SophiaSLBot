@@ -93,9 +93,9 @@ buttons = [
         ),
     ],
     [
-        InlineKeyboardButton(text="🙋‍♀️ Sophia News", url=f"https://t.me/dihanofficial"),
+        InlineKeyboardButton(text="📱 Anime Chat ", url=f"https://t.me/biests"),
         InlineKeyboardButton(
-            text="💬 Support Group", url=f"https://t.me/dihan_official"
+            text="💬 Support Group", url=f"https://t.me/PigasusSupport"
         ),
     ],
     [
@@ -399,7 +399,7 @@ def Source_about_callback(update, context):
     query = update.callback_query
     if query.data == "source_":
         query.message.edit_text(
-            text=""" Hi..😍 I'm *Sophia*
+            text=""" Hi..😈 I'm *Devil*
                  \nHere is the [Source Code](https://github.com/dihanofficial/Sophia) .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
