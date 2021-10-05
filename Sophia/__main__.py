@@ -76,7 +76,7 @@ def get_readable_time(seconds: int) -> str:
 
 
 PM_START_TEXT = f"""
-𝐇𝐞𝐥𝐥𝐨, \n 𝗜'𝗺 𝗦𝗼𝗽𝗵𝗶𝗮 
+𝐇𝐞𝐥𝐥𝐨, \n 𝗜'𝗺 Devil 😈
 𝗜'𝗺 𝗛𝗲𝗿𝗲 𝘁𝗼 𝗵𝗲𝗹𝗽 𝘆𝗼𝘂𝗿 𝗚𝗿𝗼𝘂𝗽𝘀! 𝗛𝗶𝘁 /help [️️ ️](https://telegra.ph/file/583b241199a6c0c0fa38c.jpg)
 Project By @DihanOfficial ❤
 """
@@ -105,9 +105,9 @@ buttons = [
 
 
 HELP_STRINGS = """
-`Hi.. I'm` 𝗦𝗼𝗽𝗵𝗶𝗮 
+`Hi.. I'm` Devil 😈 
 Click On The Buttons Below To Get Documentation About Specific Modules..
-Powered by @dihanofficial 💓 [️️ ️](https://telegra.ph/file/583b241199a6c0c0fa38c.jpg) """
+Powered by @Horimaya 😈 [️️ ️](https://telegra.ph/file/583b241199a6c0c0fa38c.jpg) """
 
 
 DONATE_STRING = """Hey, glad to hear you want to donate!
