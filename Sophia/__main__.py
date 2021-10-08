@@ -77,7 +77,7 @@ def get_readable_time(seconds: int) -> str:
 
 PM_START_TEXT = f"""
 𝐇𝐞𝐥𝐥𝐨, \n 𝗜'𝗺 Devil 😈
-𝗜'𝗺 𝗛𝗲𝗿𝗲 𝘁𝗼 𝗵𝗲𝗹𝗽 𝘆𝗼𝘂𝗿 𝗚𝗿𝗼𝘂𝗽𝘀! 𝗛𝗶𝘁 /help [️️https://telegra.ph/file/96f54b29d34a03548ce12.jpg])
+𝗜'𝗺 𝗛𝗲𝗿𝗲 𝘁𝗼 𝗵𝗲𝗹𝗽 𝘆𝗼𝘂𝗿 𝗚𝗿𝗼𝘂𝗽𝘀! 𝗛𝗶𝘁 /help [️️](https://telegra.ph/file/96f54b29d34a03548ce12.jpg)
 Project By @Horimaya 😈
 """
 
