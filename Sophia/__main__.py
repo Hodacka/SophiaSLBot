@@ -84,7 +84,7 @@ Project By @Horimaya 😈
 buttons = [
     [
         InlineKeyboardButton(
-            text="➕ Add Sophia to your Group ➕", url="t.me/Sophia?startgroup=true"),
+            text="➕ Add Devil to your Group ➕", url="t.me/Sophia?startgroup=true"),
     ],
     [
         InlineKeyboardButton(text="Source Code 🗒️", callback_data="source_"),
