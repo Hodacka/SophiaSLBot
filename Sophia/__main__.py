@@ -107,7 +107,7 @@ buttons = [
 HELP_STRINGS = """
 `Hi.. I'm` Devil 😈 
 Click On The Buttons Below To Get Documentation About Specific Modules..
-Powered by @Horimaya 😈 [️️ ️](https://telegra.ph/file/583b241199a6c0c0fa38c.jpg) """
+Powered by @Horimaya 😈 [️️ ️](https://telegra.ph/file/109fcec59ff6e96eb4767.jpg) """
 
 
 DONATE_STRING = """Hey, glad to hear you want to donate!
