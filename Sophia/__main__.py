@@ -356,7 +356,7 @@ def help_button(update, context):
 @run_async
 def sophia_about_callback(update, context):
     query = update.callback_query
-    if query.data == "sophia_":
+    if query.data == "Devil_":
         query.message.edit_text(
             text=""" ℹ️ I'm *Devil*, a powerful group management bot built to help you manage your group easily.
                  \n* I can restrict users.
@@ -368,7 +368,7 @@ def sophia_about_callback(update, context):
                  \n* Awesome Secret @DihanOfficial
                  \n* Support Group @dihan_official
                  \* Assistant @SophiaX_Support
-                 \n\nIf you have any question about Sophia, let us know at .""",
+                 \n\nIf you have any question about Devil, let us know at .""",
             parse_mode=ParseMode.MARKDOWN,
             disable_web_page_preview=True,
             reply_markup=InlineKeyboardMarkup(
