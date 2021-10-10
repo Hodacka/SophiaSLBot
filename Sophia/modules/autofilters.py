@@ -1,4 +1,4 @@
-__mod_name__ = "💞Auto Filters💞"
+__mod_name__ = "😈Auto Filters😈"
 __help__ = """
 <b> AUTO FILTERS </b>
 Sophia Can filter content of a given channel automatically
