@@ -214,4 +214,4 @@ __help__ = """
  ~ /encrypt: Encrypts The Given Text
  ~ /decrypt: Decrypts Previously Ecrypted Text
  """
-__mod_name__ = "💞Zip💞"
+__mod_name__ = "😈Zip😈"
