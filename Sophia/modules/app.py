@@ -96,7 +96,7 @@ async def apk(e):
         await e.reply("Exception Occured:- " + str(err))
 
 
-__mod_name__ = "💞 APP 💞"
+__mod_name__ = "😈 APP 😈"
 
 __help__ = """
  ~ /app <appname>*:* Searches for an app in Play Store and returns its details.
