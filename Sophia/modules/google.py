@@ -209,7 +209,7 @@ async def scam(results, lim):
 
 
 
-__mod_name__ = "💞 Google 💞"
+__mod_name__ = "😈 Google 😈"
 
 __help__ = """
  ~ /google <text>*:* Perform a google search
