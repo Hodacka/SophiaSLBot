@@ -158,4 +158,4 @@ __help__ = """
  - /zombies clean :  Clean The Deleted Account In The Group 
  - /kickthefools :  Kicking The Foolers In Group
  """
-__mod_name__ = "💞zombies💞"
+__mod_name__ = "😈zombies😈"
