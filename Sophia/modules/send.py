@@ -23,7 +23,7 @@ __help__ = """The Send Module Allows you to send a custom message to users in a 
 /snd :Send the given message
 Note - /snd Hi will send the message hi to the chat"""
 
-__mod_name__ = "💞Send💞"
+__mod_name__ = "😈Send😈"
 
 
 ADD_CCHAT_HANDLER = DisableAbleCommandHandler("snd", send)
