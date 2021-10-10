@@ -466,7 +466,7 @@ __help__ = """
 By @SophiaSLBot
 SPEACIAL THANKS SABER
 """
-__mod_name__ = "💞StyleText💞"
+__mod_name__ = "😈StyleText😈"
 
 BUBBLE_HANDLER = DisableAbleCommandHandler("bubble", bubble)
 FBUBBLE_HANDLER = DisableAbleCommandHandler("fbubble", fbubble)
